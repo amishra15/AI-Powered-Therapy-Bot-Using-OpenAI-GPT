@@ -15,10 +15,10 @@ The **Mental Health Chatbot** is an empathetic virtual therapist designed to pro
 ## Demo
 
 ### Screenshot 1
-![Mental Health Chatbot Interface]([https://imgur.com/EJ0SXWh](https://i.imgur.com/EJ0SXWh.png))
+![Mental Health Chatbot Interface](https://i.imgur.com/EJ0SXWh.png)
 
 ### Screenshot 2
-![Chat History]([https://imgur.com/ZroC2jo](https://i.imgur.com/ZroC2jo.png))
+![Chat History](https://i.imgur.com/ZroC2jo.png)
 
 ## Installation
 
