@@ -24,7 +24,7 @@ The **Mental Health Chatbot** is an empathetic virtual therapist designed to pro
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/mental-health-chatbot.git
+    git clone https://github.com/amishra15/AI-Powered-Therapy-Bot-Using-OpenAI-GPT
     cd mental-health-chatbot
     ```
 
